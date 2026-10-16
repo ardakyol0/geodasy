@@ -1,4 +1,3 @@
-import '../css/style.css';
 import { Viewport } from './viewport.js';
 import { createUI } from './ui.js';
 import { LAYERS, CONCEPTS, TOUR } from './data/concepts.js';
